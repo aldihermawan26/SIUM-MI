@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "229574665360",
+    "firebase_url": "https://sium-mi.firebaseio.com",
+    "project_id": "sium-mi",
+    "storage_bucket": "sium-mi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229574665360:android:18bd45cfc2fe7e16",
+        "android_client_info": {
+          "package_name": "com.example.siummi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229574665360-jp9qs92t01iko81i0is2fio45eptlsac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.siummi",
+            "certificate_hash": "ee0c0094acd53ec9015a44ed769ba25f6039574a"
+          }
+        },
+        {
+          "client_id": "229574665360-av1c09bgbo7crtjtqleoo346eltlb6et.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNqCW4QS814vdv-Nb0JMkqonO28leyVFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229574665360-av1c09bgbo7crtjtqleoo346eltlb6et.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
